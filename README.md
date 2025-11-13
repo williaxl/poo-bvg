@@ -1,3 +1,4 @@
+ HEAD
 # Repositório da Disciplina de Programação Orientada a Objetos (POO)
 
 Bem-vindo ao repositório oficial da disciplina de **Programação Orientada a Objetos (POO)**! Este espaço será utilizado para a submissão e revisão dos projetos desenvolvidos ao longo do curso. Aqui você encontrará as diretrizes de contribuição, regras de submissão e informações importantes para o desenvolvimento dos projetos.
@@ -97,3 +98,37 @@ public class Usuario {
 ## Dúvidas e Suporte
 
 Para quaisquer dúvidas, entre em contato com o professor ou use o fórum de discussão no Google Classroom.
+
+# Projeto Avaliativo 3 - Introdução a C++
+
+## Descrição
+Este projeto tem como objetivo introduzir os conceitos fundamentais da linguagem C++, aplicando Programação Orientada a Objetos (POO) através da criação da classe Pessoa, uso de std::vector, manipulação de strings e boas práticas de encapsulamento.
+
+## Estrutura do Projeto
+Projeto_3/
+│
+├── src/               # Código-fonte (Pessoa.h, Pessoa.cpp, main.cpp)
+├── docs/              # Documentação (diagrama UML)
+├── test/              # Testes (quando aplicável)
+└── README.md          # Descrição do projeto
+
+## Funcionalidades
+- Classe Pessoa com atributos privados (nome, telefone).
+- Métodos públicos para imprimir informações.
+- Construtor padrão, parametrizado e destrutor.
+- Armazenamento de objetos usando std::vector.
+- Uso de this e namespace std.
+
+## Conceitos Trabalhados
+- Encapsulamento
+- Containers (std::vector)
+- Manipulação de strings
+- Construtores e destrutores
+- Organização modular em C++
+
+## UML
+O diagrama UML da classe Pessoa está disponível em /docs/Pessoa_UML.png.
+
+## Autor
+William Axel
+ 1ae9ec8 (Projeto_3 - William Axel: Implementação completa com UML e README)
